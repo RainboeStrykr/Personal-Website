@@ -9,22 +9,22 @@ const About = ({ name }) => {
 			<div className="details">
 				<div className="item text-muted">
 					<p>
-						I'm a software developer from India <i className="animated hover-bounce em-svg em-heart f-12" />
-						I'm good at MERN & LAMP Stack. I can create awesome Web application. If you have any work feel
-						free to contact.
+						I'm a web developer from India <i className="animated hover-bounce em-svg em-heart f-12" />
+						I'm also a content blogger. I create awesome stuff on the web. I am currently working on my startup 
+		                                <a href="https://twitter.com/visualwayorg">Visualway</a>.
 					</p>
 					<p>
 						Some of my previous works:
-						<a rel="noopener noreferrer" target="_BLANK" href="https://betternode.com">
-							Betternode
+						<a rel="noopener noreferrer" target="_BLANK" href="https://markdownez.vercel.app">
+							MarkdownEz
 						</a>
 						,
-						<a rel="noopener noreferrer" target="_BLANK" href="https://cryptobeanie.com">
-							CryptoBeanie
+						<a rel="noopener noreferrer" target="_BLANK" href="https://pixellate.netlify.app">
+							Pixellate
 						</a>
 						,
-						<a rel="noopener noreferrer" target="_BLANK" href="https://clixwall.com">
-							ClixWall
+						<a rel="noopener noreferrer" target="_BLANK" href="https://webmockup.vercel.app/">
+							WebMockup
 						</a>
 					</p>
 				</div>

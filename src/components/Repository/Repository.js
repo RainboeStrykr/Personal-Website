@@ -2,7 +2,7 @@ import React from 'react';
 import useAbortableFetch from 'use-abortable-fetch';
 
 const Repository = () => {
-	const { data } = useAbortableFetch('https://api.github.com/users/Pjijin/repos');
+	const { data } = useAbortableFetch('https://api.github.com/users/rainboestrykr/repos');
 
 	if (!data) return null;
 
